@@ -2,6 +2,7 @@
   "private": true,
   "name": "url-path",
   "version": "0.0.1",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oyb81076/url-path.git"
