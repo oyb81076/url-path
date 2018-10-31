@@ -4,4 +4,6 @@ code copy from https://github.com/nodejs/node/blob/v11.x/lib/path.js
 import join from "url-path/join"
 import resolve from "url-path/resolve"
 import basename from "url-path/basename"
+
+import { join, resolve, basename } from "url-path"
 ```
